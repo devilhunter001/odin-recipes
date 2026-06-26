@@ -8,7 +8,7 @@ Major things practiced in this project :
 <ul>
 	<li>HTML</li>
 	<li>git</li>
-	<li>writing good commit messages</li>
+	<li><a href="https://www.theodinproject.com/lessons/foundations-commit-messages">writing good commit messages</a></li>
 	<li>CSS</li>
 
 </ul>
