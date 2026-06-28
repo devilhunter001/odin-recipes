@@ -22,28 +22,35 @@ h1 {
 }
 
 img {
-    margin: 15px;
 
 }
 
 .Images {
-    display: inline;
-
-}
-
-.Images .chicken {
-    display: inline;
-    
-}
-
-.Images .rice {
-    display: inline;
-
-}
-
-.Images .rice {
-    display: inline;
     text-align: center;
+}
+
+.chicken {
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    padding: 8px;
+    color: gold;
+}
+
+.rice {
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    padding: 8px;
+    color: gold;
+}
+
+.paneer{
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    padding: 8px;
+    color: gold;
 }
 
 
