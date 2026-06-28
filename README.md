@@ -4,7 +4,7 @@ This project features a simple website that showcases recipes, by creating this 
 i will be adding css and javascript later in this project. This will be the first project that i make in my programming journey (except a few acode extensions which i made in collaboration with my friend <a href="https://github.com/bajrangCoder"> Raunak </a>).
 This project will be a really basic one but i want it to be included on my github profile so as to document my journey and consistency. 
 
-verified link to the project; https://devilhunter001.github.io/odin-recipes/
+verified link to the project: https://devilhunter001.github.io/odin-recipes/
 
 Major things practiced in this project :
 <ul>
