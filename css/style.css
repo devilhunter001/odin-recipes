@@ -1,3 +1,13 @@
+body {
+    background-image: url(../assets/burgundy_bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
 h1 {
     text-align: center;
     margin-top: 0px;
@@ -9,6 +19,31 @@ h1 {
     font-weight: 5;
     border-style: solid;
     border-width: 6px;
+}
+
+img {
+    margin: 15px;
+
+}
+
+.Images {
+    display: inline;
+
+}
+
+.Images .chicken {
+    display: inline;
+    
+}
+
+.Images .rice {
+    display: inline;
+
+}
+
+.Images .rice {
+    display: inline;
+    text-align: center;
 }
 
 
