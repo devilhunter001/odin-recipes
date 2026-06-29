@@ -39,6 +39,7 @@ img {
     border-width: 2px;
     padding: 8px;
     color: gold;
+    box-shadow: 20px 20px 120px rgba(0, 0, 0, 0.400), -20px -20px 120px rgba(0, 0, 0, 0.400); 
 }
 
 #rice {
@@ -47,6 +48,7 @@ img {
     border-width: 2px;
     padding: 8px;
     color: gold;
+    box-shadow: 20px 20px 120px rgba(0, 0, 0, 0.400), -20px -20px 120px rgba(0, 0, 0, 0.400); 
 }
 
 #paneer {
@@ -55,6 +57,11 @@ img {
     border-width: 2px;
     padding: 8px;
     color: gold;
+    box-shadow: 20px 20px 120px rgba(0, 0, 0, 0.400), -20px -20px 120px rgba(0, 0, 0, 0.400); 
 }
 
-
+.description{
+    display: block;
+    color: gold;
+    text-align: center;
+}
