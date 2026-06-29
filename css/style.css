@@ -19,6 +19,7 @@ h1 {
     font-weight: 5;
     border-style: solid;
     border-width: 6px;
+    text-shadow: 6px 6px 35px gold;
 }
 
 img {
@@ -64,4 +65,17 @@ img {
     display: block;
     color: gold;
     text-align: center;
+}
+
+.watermark {
+    display: block;
+    text-align :center;
+    color: gold;
+    margin-top: 200px;
+    margin-bottom: 0px;
+
+}
+
+a {
+    color: #977E80;
 }
