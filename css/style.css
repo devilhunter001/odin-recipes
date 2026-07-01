@@ -96,6 +96,9 @@ img {
 }
 
 .watermark {
+    background-color:rgba(0, 0, 0, 0.695);
+    padding: 35px;
+    margin-bottom: 0px;
     display: block;
     text-align :center;
     color: gold;
@@ -123,4 +126,12 @@ a {
 
 .home {
     text-align: center;
+}
+
+.source{
+    background-color:rgba(0, 0, 0, 0.695);
+    padding: 35px;
+    margin-bottom: 0px;
+    display: block;
+    text-align :center;
 }
